@@ -1,0 +1,64 @@
+{
+  "data": {
+    "categories": ["Mobiles", "Laptops", "Earphones"],
+    "brands": ["Samsung", "Apple", "Sony", "Dell", "Lenovo"],
+    "products": [
+      {
+        "name": "Samsung galaxy M21",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel error adipisci repellendus nisi aperiam, consequatur",
+        "category": "Mobiles",
+        "brand": "Samsung",
+        "cost": "15000"
+      },
+      {
+        "name": "Iphone XR",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel error adipisci repellendus nisi aperiam, consequatur",
+        "category": "Mobiles",
+        "brand": "Apple",
+        "cost": "85000"
+      },
+      {
+        "name": "Lenovo Ideapad 3200",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel error adipisci repellendus nisi aperiam, consequatur",
+        "category": "Laptops",
+        "brand": "Lenovo",
+        "cost": "55000"
+      },
+      {
+        "name": "Ipad sierra",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel error adipisci repellendus nisi aperiam, consequatur",
+        "category": "Laptops",
+        "brand": "Apple",
+        "cost": "95000"
+      },
+      {
+        "name": "Samsung galaxy M51",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel error adipisci repellendus nisi aperiam, consequatur",
+        "category": "Mobiles",
+        "brand": "Samsung",
+        "cost": "25000"
+      },
+      {
+        "name": "Ipods",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel error adipisci repellendus nisi aperiam, consequatur",
+        "category": "Earphones",
+        "brand": "Apple",
+        "cost": "10000"
+      },
+      {
+        "name": "Sony headphones",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel error adipisci repellendus nisi aperiam, consequatur",
+        "category": "Earphones",
+        "brand": "Sony",
+        "cost": "5000"
+      },
+      {
+        "name": "Dell inspiron",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel error adipisci repellendus nisi aperiam, consequatur",
+        "category": "Laptops",
+        "brand": "Dell",
+        "cost": "65000"
+      }
+    ]
+  }
+}
